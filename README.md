@@ -4,7 +4,7 @@
 
 Hệ thống phù hợp cho cửa hàng bán lẻ đa mặt hàng, doanh nghiệp nhỏ và vừa, hoặc các đơn vị cần quản trị kho tập trung qua mạng nội bộ hoặc internet.
 
-👉 [https://www.ahitec.com/p/phan-mem-quan-ly-thiet-bi-it.html](https://www.ahitec.com/p/phan-mem-quan-ly-kho-warehouse.html)
+👉 [https://www.ahitec.com/p/phan-mem-quan-ly-kho-warehouse.html](https://www.ahitec.com/p/phan-mem-quan-ly-kho-warehouse.html)
 
 ---
 
